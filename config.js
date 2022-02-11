@@ -132,6 +132,10 @@ const CONFIG = {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
       },
+      {
+        name: 'Bilibili',
+        link: 'https://www.bilibili.com/',
+      },
     ],
   },
 };
